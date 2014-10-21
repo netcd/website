@@ -1,3 +1,6 @@
-baseurl = "http://yourSiteHere"
+baseurl = "http://netcd.io/"
 languageCode = "en-us"
-title = "my new hugo site"
+title = "netcd - A .NET etcd client"
+[params]
+  author = "hagbarddenstore"
+  description = "netcd - A .NET etcd client"
